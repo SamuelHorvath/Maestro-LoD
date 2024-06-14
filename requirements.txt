@@ -1,0 +1,11 @@
+dill
+deepspeed
+nltk
+matplotlib
+numpy
+pandas
+ptflops
+spacy
+torch>=1.8.0
+torchtext==0.4.0
+torchvision>=0.15.1
